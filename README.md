@@ -1,4 +1,5 @@
-# ❌⭕ Tic Tac Toe AI (Unbeatable)
+# ❌⭕ Tic Tac Toe AI 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Post-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7329836916227436546](https://www.linkedin.com/posts/eng3mno3man_ai-python-minimax-activity-7320025630291456000-Qkhk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgRbeQBb5i5jTaXrI-TI9EszXce1gH8YZE))
 
 A Python-based Tic Tac Toe game featuring an unbeatable AI powered by the **Minimax Algorithm** with **Alpha-Beta Pruning** optimization. Built with a clean **Tkinter** GUI.
 
