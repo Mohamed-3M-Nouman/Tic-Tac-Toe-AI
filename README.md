@@ -47,6 +47,3 @@ This project was developed by:
 | **Mohamed Mohamed Mohamed Nouman Al-Gharib** | Developer & AI Implementation |
 | **Razan Emad El-Din Hussein Ahmed** | Developer |
 | **Nada Wael Youssef El-Adly** | Developer |
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
